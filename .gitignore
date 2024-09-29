@@ -1,0 +1,14 @@
+*.log
+*.temp
+*.vcxproj
+*.vcxproj.user
+*.vcxproj.filters
+*.sln
+*.suo
+*.sdf
+*.db
+*.sqlite
+*.sqlite3
+*bin/
+*.vs/
+*out/
